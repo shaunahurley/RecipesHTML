@@ -1,0 +1,16 @@
+body {
+  background-color: BurlyWood;
+  color: oldlace;
+}
+
+.title {
+  font-family: fantasy;
+  font-size: 75px;
+  font-style: italic;
+  text-decoration: underline;
+  text-align: center;
+  text-shadow: 10px 10px 20px black;
+  font-weight: lighter
+}
+
+/*   comment     */
